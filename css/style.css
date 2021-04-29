@@ -115,7 +115,9 @@ ul li:last-child {
 }
 
 /*****Components ******/
-
+.acerca-avatar{
+  border-radius: 50%;
+}
 /*****Education ******/
 .education .education-card {
   margin: 1rem auto;
