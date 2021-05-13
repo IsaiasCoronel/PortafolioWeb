@@ -48,7 +48,7 @@
       .finally(() => {
         $loader.classList.add("none");
         setTimeout(() => {
-          location.hash = "#close";
+          location.hash = "";
         }, 3000);
       });
   });
