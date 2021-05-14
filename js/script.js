@@ -48,7 +48,7 @@
       .finally(() => {
         $loader.classList.add("none");
         setTimeout(() => {
-          location.hash = "";
+          location.hash = "#contacto";
         }, 3000);
       });
   });
