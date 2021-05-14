@@ -569,6 +569,9 @@ ul li:last-child {
   }
 }
 
+.space{
+  padding-top: 4rem;
+}
 @media screen and (min-width: 1024px) {
   .about {
     display: grid;
